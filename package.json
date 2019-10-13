@@ -30,7 +30,7 @@
     "redux-logger": "^3.0.6",
     "react-rte": "^0.16.1",
     "prop-types": "^15.6.2",
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "react-show-more-text": "^1.0.4",
     "react-popup": "^0.9.3"
   },
